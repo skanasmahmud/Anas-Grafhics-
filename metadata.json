@@ -1,0 +1,6 @@
+{
+  "name": "ANAS Graphics",
+  "description": "Creative Services & Digital Design Marketplace for graphic designers, digital creators, PLP, and PSD resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
